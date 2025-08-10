@@ -1,7 +1,5 @@
 # 🚀 Guia de Deploy no Vercel
 
-Este guia irá te ajudar a fazer o deploy do seu portfólio no Vercel de forma rápida e eficiente.
-
 ## 📋 Pré-requisitos
 
 1. **Conta no GitHub**: Para conectar o repositório
@@ -12,10 +10,7 @@ Este guia irá te ajudar a fazer o deploy do seu portfólio no Vercel de forma r
 
 ### 1. Preparar o Repositório
 
-Certifique-se de que seu código está no GitHub:
-
 ```bash
-# Se ainda não inicializou o git
 git init
 git add .
 git commit -m "Initial commit: Portfolio website"
@@ -43,10 +38,7 @@ O Vercel deve detectar automaticamente as configurações corretas:
 
 ### 4. Variáveis de Ambiente (Opcional)
 
-Se você planeja adicionar funcionalidades como formulário de contato, adicione as variáveis necessárias:
-
 ```bash
-# Exemplo para EmailJS
 NEXT_PUBLIC_EMAILJS_SERVICE_ID=seu_service_id
 NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=seu_template_id
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=sua_public_key
@@ -85,8 +77,6 @@ Value: cname.vercel-dns.com
 
 ## 📊 Analytics (Opcional)
 
-Para adicionar analytics ao seu site:
-
 ### Vercel Analytics
 1. Vá para as configurações do projeto
 2. Ative "Vercel Analytics"
@@ -112,11 +102,6 @@ export default function RootLayout({
 }
 ```
 
-### Google Analytics
-1. Crie uma conta no Google Analytics
-2. Adicione o ID de rastreamento nas variáveis de ambiente
-3. Implemente o script de tracking
-
 ## 🔍 SEO e Performance
 
 O projeto já está otimizado para:
@@ -125,13 +110,6 @@ O projeto já está otimizado para:
 - ✅ Performance com Next.js
 - ✅ Responsividade
 - ✅ Acessibilidade básica
-
-### Melhorias adicionais:
-
-1. **Sitemap**: Adicione um sitemap.xml
-2. **Robots.txt**: Configure o arquivo robots.txt
-3. **Open Graph**: Imagens personalizadas para redes sociais
-4. **Schema.org**: Marcação estruturada
 
 ## 🛠️ Troubleshooting
 
@@ -175,16 +153,4 @@ Para atualizar o site:
 1. Faça as mudanças no código
 2. Commit e push para o GitHub
 3. O Vercel fará deploy automático
-4. Verifique se tudo está funcionando
-
-## 📞 Suporte
-
-Se encontrar problemas:
-
-1. Verifique a [documentação do Vercel](https://vercel.com/docs)
-2. Consulte os [fóruns do Next.js](https://github.com/vercel/next.js/discussions)
-3. Abra uma issue no repositório do projeto
-
----
-
-🎉 **Parabéns!** Seu portfólio está no ar e pronto para impressionar! 
+4. Verifique se tudo está funcionando 

@@ -4,10 +4,10 @@ Um portfólio moderno e responsivo desenvolvido com Next.js, TypeScript e Tailwi
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Next.js 14** - Framework React com App Router
+- **Next.js 15** - Framework React com App Router
 - **TypeScript** - Tipagem estática
 - **Tailwind CSS** - Framework CSS utilitário
-- **React** - Biblioteca JavaScript para interfaces
+- **React 18** - Biblioteca JavaScript para interfaces
 - **ESLint** - Linter para qualidade de código
 
 ## ✨ Características
@@ -46,15 +46,11 @@ cd Portfolio
 2. Instale as dependências:
 ```bash
 npm install
-# ou
-yarn install
 ```
 
 3. Execute o servidor de desenvolvimento:
 ```bash
 npm run dev
-# ou
-yarn dev
 ```
 
 4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
@@ -152,7 +148,7 @@ O projeto inclui otimizações de performance:
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT.
 
 ## 🤝 Contribuição
 
