@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Hello, I'm Cloves Henrique",
+    "subtitle": "Data and Development Specialist",
+    "description": "I transform data into insights and build digital solutions that drive business growth",
+    "cta": "View Projects",
+    "scroll": "Scroll down"
+  },
+  "about": {
+    "title": "About Me",
+    "whoAmI": "Who I Am",
+    "description1": "I'm Henrique, a professional passionate about transforming data into insights and building robust digital solutions. With experience in data analysis, web development, and process automation, I always seek to enhance my skills and deliver high-impact results.",
+    "description2": "My approach is always focused on understanding business needs and applying the best technologies to solve complex challenges efficiently and scalably.",
+    "downloadCV": "Download Resume"
+  },
+  "skills": {
+    "title": "Skills and Technologies",
+    "description": "I master a wide range of technologies and tools for data analysis, web development, and automation",
+    "categories": {
+      "dataAnalysis": {
+        "title": "Data Analysis",
+        "description": "Power BI, Tableau, Python, SQL and ETL tools"
+      },
+      "development": {
+        "title": "Development",
+        "description": "React, Next.js, Node.js, TypeScript and RESTful APIs"
+      },
+      "automation": {
+        "title": "Automation",
+        "description": "Python, Power Automate, Zapier and system integration"
+      },
+      "databases": {
+        "title": "Databases",
+        "description": "SQL Server, PostgreSQL, MySQL and data modeling"
+      }
+    },
+    "certifications": {
+      "title": "Certifications",
+      "powerbi": {
+        "title": "Microsoft Power BI Data Analyst",
+        "institution": "Microsoft"
+      },
+      "tableau": {
+        "title": "Tableau Desktop Specialist",
+        "institution": "Tableau"
+      }
+    },
+    "education": {
+      "title": "Certifications & Education",
+      "mba": {
+        "title": "MBA Data Science & Analytics",
+        "institution": "Centro Universitário Fundação Santo André (FSA)",
+        "year": "2025",
+        "description": "Specialization in Data Science with focus on Machine Learning, covering statistics, data analysis, big data, artificial intelligence and advanced tools for extracting insights and supporting strategic decision making."
+      },
+      "graduation": {
+        "title": "Management – Information Technology",
+        "institution": "Centro Universitário Fundação Santo André (FSA)",
+        "year": "2023",
+        "description": "Focused on planning, organizing and controlling IT resources, addressing governance, information security, project management, infrastructure and technological innovation, with emphasis on strategic alignment between technology and business."
+      }
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "description": "Some of the projects I've developed to solve real business challenges",
+    "instruction": "Click the buttons below to filter and view projects by category",
+    "categories": {
+      "all": "All",
+      "bi": "Business Intelligence",
+      "automation": "Automation",
+      "development": "Development",
+      "dataEngineering": "Data Engineering",
+      "devops": "DevOps"
+    },
+    "items": {
+      "dashboard": {
+        "title": "Sales Executive Dashboard",
+        "description": "Interactive Power BI dashboard for real-time sales performance analysis",
+        "category": "Business Intelligence"
+      },
+      "etl": {
+        "title": "Automated ETL Pipeline",
+        "description": "Automated system for data extraction, transformation, and loading",
+        "category": "Data Engineering"
+      },
+      "webapp": {
+        "title": "Business Management Web App",
+        "description": "Complete business management system with React and Node.js",
+        "category": "Development"
+      }
+    },
+    "viewProject": "View Project",
+    "viewCode": "View Code",
+    "cta": {
+      "text": "Interested in seeing more projects or collaborating on something new?",
+      "button": "Let's Talk"
+    }
+  },
+  "contact": {
+    "title": "Let's Talk",
+    "description": "Interested in collaborating on a project or have an interesting opportunity? Get in touch and let's discuss how I can help!",
+    "subtitle": "Get in touch to discuss your next project or just to say hello!",
+    "form": {
+      "title": "Send a Message",
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "How can I help?",
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
+      "send": "Send Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "emailResponse": "Response within 24 hours",
+      "location": "Location",
+      "locationDetail": "Santo André - SP, Brazil",
+      "locationNote": "Available for remote projects",
+      "availability": "Availability",
+      "availabilityText": "Monday to Friday, 9:00 AM - 6:00 PM (GMT-3)",
+      "availabilityDetail": "Monday to Friday",
+      "availabilityNote": "9:00 AM - 6:00 PM (GMT-3)",
+      "connect": "Connect"
+    },
+    "social": {
+      "title": "Connect"
+    },
+    "services": {
+      "title": "Most Realized Projects",
+      "bi": {
+        "title": "Business Intelligence",
+        "description": "Interactive dashboards, data analysis and BI solutions"
+      },
+      "automation": {
+        "title": "Process Automation",
+        "description": "Workflow automation, ETL and system integration"
+      },
+      "development": {
+        "title": "Web Development",
+        "description": "Modern web applications, APIs and management systems"
+      },
+      "consulting": {
+        "title": "Consulting",
+        "description": "System implementation, data architecture and business process optimization"
+      },
+      "webdev": {
+        "title": "Web Development",
+        "description": "Modern web applications, APIs and business management systems"
+      }
+    }
+  },
+  "footer": {
+    "description": "Transforming data into insights and building digital solutions that drive business growth. Specialist in data analysis, web development and process automation.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "rights": "© 2025 Cloves Henrique. All rights reserved."
+  }
+}

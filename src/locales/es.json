@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Hola, soy Cloves Henrique",
+    "subtitle": "Especialista en Datos y Desarrollo",
+    "description": "Transformo datos en insights y construyo soluciones digitales que impulsan negocios",
+    "cta": "Ver Proyectos",
+    "scroll": "Desplázate hacia abajo"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "whoAmI": "Quién Soy",
+    "description1": "Soy Henrique, un profesional apasionado por transformar datos en insights y construir soluciones digitales robustas. Con experiencia en análisis de datos, desarrollo web y automatización de procesos, busco siempre mejorar mis habilidades y entregar resultados de alto impacto.",
+    "description2": "Mi enfoque siempre está centrado en entender las necesidades del negocio y aplicar las mejores tecnologías para resolver desafíos complejos de manera eficiente y escalable.",
+    "downloadCV": "Descargar CV"
+  },
+  "skills": {
+    "title": "Habilidades y Tecnologías",
+    "description": "Domino una amplia gama de tecnologías y herramientas para análisis de datos, desarrollo web y automatización",
+    "categories": {
+      "dataAnalysis": {
+        "title": "Análisis de Datos",
+        "description": "Power BI, Tableau, Python, SQL y herramientas ETL"
+      },
+      "development": {
+        "title": "Desarrollo",
+        "description": "React, Next.js, Node.js, TypeScript y APIs RESTful"
+      },
+      "automation": {
+        "title": "Automatización",
+        "description": "Python, Power Automate, Zapier e integración de sistemas"
+      },
+      "databases": {
+        "title": "Bases de Datos",
+        "description": "SQL Server, PostgreSQL, MySQL y modelado de datos"
+      }
+    },
+    "certifications": {
+      "title": "Certificaciones",
+      "powerbi": {
+        "title": "Microsoft Power BI Data Analyst",
+        "institution": "Microsoft"
+      },
+      "tableau": {
+        "title": "Tableau Desktop Specialist",
+        "institution": "Tableau"
+      }
+    },
+    "education": {
+      "title": "Certificaciones & Formación",
+      "mba": {
+        "title": "MBA Data Science & Analytics",
+        "institution": "Centro Universitário Fundação Santo André (FSA)",
+        "year": "2025",
+        "description": "Especialización en Ciencia de Datos con enfoque en Machine Learning, abordando estadística, análisis de datos, big data, inteligencia artificial y herramientas avanzadas para extracción de insights y apoyo a la toma de decisiones estratégicas."
+      },
+      "graduation": {
+        "title": "Gestión – Tecnología de la Información",
+        "institution": "Centro Universitário Fundação Santo André (FSA)",
+        "year": "2023",
+        "description": "Enfocado en la planificación, organización y control de los recursos de TI, abordando gobernanza, seguridad de la información, gestión de proyectos, infraestructura e innovación tecnológica, con énfasis en la alineación estratégica entre tecnología y negocios."
+      }
+    }
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "description": "Algunos de los proyectos que he desarrollado para resolver desafíos reales de negocio",
+    "instruction": "Haz clic en los botones de abajo para filtrar y ver proyectos por categoría",
+    "categories": {
+      "all": "Todos",
+      "bi": "Inteligencia de Negocios",
+      "automation": "Automatización",
+      "development": "Desarrollo",
+      "dataEngineering": "Ingeniería de Datos",
+      "devops": "DevOps"
+    },
+    "items": {
+      "dashboard": {
+        "title": "Dashboard Ejecutivo de Ventas",
+        "description": "Dashboard interactivo en Power BI para análisis de rendimiento de ventas en tiempo real",
+        "category": "Inteligencia de Negocios"
+      },
+      "etl": {
+        "title": "Pipeline ETL Automatizado",
+        "description": "Sistema automatizado de extracción, transformación y carga de datos",
+        "category": "Ingeniería de Datos"
+      },
+      "webapp": {
+        "title": "Aplicación Web de Gestión",
+        "description": "Sistema completo de gestión empresarial con React y Node.js",
+        "category": "Desarrollo"
+      }
+    },
+    "viewProject": "Ver Proyecto",
+    "viewCode": "Ver Código",
+    "cta": {
+      "text": "¿Interesado en ver más proyectos o colaborar en algo nuevo?",
+      "button": "Hablemos"
+    }
+  },
+  "contact": {
+    "title": "Hablemos",
+    "description": "¿Interesado en colaborar en un proyecto o tienes una oportunidad interesante? ¡Ponte en contacto y discutamos cómo puedo ayudar!",
+    "subtitle": "¡Ponte en contacto para discutir tu próximo proyecto o solo para saludar!",
+    "form": {
+      "title": "Envía un Mensaje",
+      "name": "Nombre Completo",
+      "namePlaceholder": "Tu nombre completo",
+      "email": "Email",
+      "emailPlaceholder": "tu@email.com",
+      "subject": "Asunto",
+      "subjectPlaceholder": "¿Cómo puedo ayudar?",
+      "message": "Mensaje",
+      "messagePlaceholder": "Tu mensaje...",
+      "send": "Enviar Mensaje",
+      "submit": "Enviar Mensaje"
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "email": "Email",
+      "emailResponse": "Respuesta en hasta 24 horas",
+      "location": "Ubicación",
+      "locationDetail": "Santo André - SP, Brasil",
+      "locationNote": "Disponible para proyectos remotos",
+      "availability": "Disponibilidad",
+      "availabilityText": "Lunes a Viernes, 9:00 - 18:00 (GMT-3)",
+      "availabilityDetail": "Lunes a Viernes",
+      "availabilityNote": "9:00 - 18:00 (GMT-3)",
+      "connect": "Conéctate"
+    },
+    "social": {
+      "title": "Conéctate"
+    },
+    "services": {
+      "title": "Proyectos Más Realizados",
+      "bi": {
+        "title": "Inteligencia de Negocios",
+        "description": "Dashboards interactivos, análisis de datos y soluciones de BI"
+      },
+      "automation": {
+        "title": "Automatización de Procesos",
+        "description": "Automatización de flujos de trabajo, ETL e integración de sistemas"
+      },
+      "development": {
+        "title": "Desarrollo Web",
+        "description": "Aplicaciones web modernas, APIs y sistemas de gestión"
+      },
+      "consulting": {
+        "title": "Consultoría",
+        "description": "Implementación de sistemas, arquitectura de datos y optimización de procesos empresariales"
+      },
+      "webdev": {
+        "title": "Desarrollo Web",
+        "description": "Aplicaciones web modernas, APIs y sistemas de gestión empresarial"
+      }
+    }
+  },
+  "footer": {
+    "description": "Transformando datos en insights y construyendo soluciones digitales que impulsan negocios. Especialista en análisis de datos, desarrollo web y automatización de procesos.",
+    "quickLinks": "Enlaces Rápidos",
+    "contactInfo": "Información de Contacto",
+    "rights": "© 2025 Cloves Henrique. Todos los derechos reservados."
+  }
+}
