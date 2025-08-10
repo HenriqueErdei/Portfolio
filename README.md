@@ -39,8 +39,8 @@ Um portfólio moderno e responsivo desenvolvido com Next.js, TypeScript e Tailwi
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/portfolio.git
-cd portfolio
+git clone https://github.com/HenriqueErdei/Portfolio.git
+cd Portfolio
 ```
 
 2. Instale as dependências:
@@ -168,7 +168,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 - **Email**: henrique@email.com
 - **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com)
-- **GitHub**: [github.com/seu-usuario](https://github.com)
+- **GitHub**: [github.com/HenriqueErdei](https://github.com/HenriqueErdei)
 
 ---
 
