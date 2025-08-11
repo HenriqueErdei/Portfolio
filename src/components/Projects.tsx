@@ -51,21 +51,11 @@ const Projects = () => {
     },
     {
       id: 5,
-      title: "Pipeline de Dados ETL",
-      description: "Pipeline completo de extração, transformação e carregamento de dados usando Apache Airflow.",
-      technologies: ["Python", "Airflow", "PostgreSQL", "Docker"],
+      title: "Sistema ERP Protheus",
+      description: "Implementação e customização do sistema ERP Protheus para gestão empresarial completa, incluindo módulos financeiro, fiscal e comercial.",
+      technologies: ["Protheus", "Advpl", "SQL Server", "TOTVS"],
       image: "/api/placeholder/400/250",
-      category: t('projects.categories.dataEngineering'),
-      link: "#",
-      github: "#"
-    },
-    {
-      id: 6,
-      title: "Sistema de Monitoramento",
-      description: "Sistema de monitoramento em tempo real com alertas e dashboards usando Grafana e Prometheus.",
-      technologies: ["Grafana", "Prometheus", "Docker", "Python"],
-      image: "/api/placeholder/400/250",
-      category: t('projects.categories.devops'),
+      category: t('projects.categories.protheus'),
       link: "#",
       github: "#"
     }
@@ -76,8 +66,7 @@ const Projects = () => {
     t('projects.categories.bi'), 
     t('projects.categories.automation'), 
     t('projects.categories.development'), 
-    t('projects.categories.dataEngineering'), 
-    t('projects.categories.devops')
+    t('projects.categories.protheus')
   ];
 
   // Filtrar projetos baseado na categoria selecionada

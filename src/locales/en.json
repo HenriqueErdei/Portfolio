@@ -77,8 +77,7 @@
       "bi": "Business Intelligence",
       "automation": "Automation",
       "development": "Development",
-      "dataEngineering": "Data Engineering",
-      "devops": "DevOps"
+      "protheus": "Protheus"
     },
     "items": {
       "dashboard": {
