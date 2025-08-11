@@ -132,7 +132,6 @@ const Contact = () => {
                       />
                     </div>
                   </AnimatedElement>
-
                   <AnimatedElement animation="slideRight" delay={0.6}>
                     <div>
                       <label htmlFor="subject" className="block text-sm font-medium text-gray-700 mb-2">
