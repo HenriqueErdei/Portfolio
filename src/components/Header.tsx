@@ -69,7 +69,7 @@ const Header = () => {
 
             {/* LinkedIn */}
             <a
-              href="https://linkedin.com/in/SEU_PERFIL_AQUI"
+              href="https://www.linkedin.com/in/henrique-erdei-442b09200/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-900 hover:text-black transition-colors p-2 rounded-full hover:bg-gray-100"
