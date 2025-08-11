@@ -30,7 +30,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="#home" className="text-2xl font-bold !text-gray-900" style={{color: '#111827'}}>
-            Cloves Henrique
+            Henrique Erdei
           </Link>
 
           {/* Desktop Navigation */}

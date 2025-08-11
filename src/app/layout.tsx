@@ -3,21 +3,21 @@ import "./globals.css";
 import { LanguageProvider } from "../contexts/LanguageContext";
 
 export const metadata: Metadata = {
-  title: "Cloves Henrique - Especialista em Dados | Desenvolvedor | Analista de Sistemas",
-  description: "Portfólio de Cloves Henrique, Especialista em Dados, Desenvolvedor e Analista de Sistemas. Especializado em Business Intelligence, Data Science, Power BI, Python, AWS e TOTVS Protheus.",
+  title: "Henrique Erdei - Especialista em Dados | Desenvolvedor | Analista de Sistemas",
+  description: "Portfólio de Henrique Erdei, Especialista em Dados, Desenvolvedor e Analista de Sistemas. Especializado em Business Intelligence, Data Science, Power BI, Python, AWS e TOTVS Protheus.",
   keywords: ["especialista em dados", "business intelligence", "power bi", "python", "aws", "totvs protheus", "data science", "analista de sistemas", "desenvolvedor", "portfólio"],
-  authors: [{ name: "Cloves Henrique" }],
-  creator: "Cloves Henrique",
+  authors: [{ name: "Henrique Erdei" }],
+  creator: "Henrique Erdei",
   openGraph: {
-    title: "Cloves Henrique - Especialista em Dados | Desenvolvedor | Analista de Sistemas",
-    description: "Portfólio de Cloves Henrique, Especialista em Dados, Desenvolvedor e Analista de Sistemas. Especializado em Business Intelligence, Data Science, Power BI, Python, AWS e TOTVS Protheus.",
+    title: "Henrique Erdei - Especialista em Dados | Desenvolvedor | Analista de Sistemas",
+    description: "Portfólio de Henrique Erdei, Especialista em Dados, Desenvolvedor e Analista de Sistemas. Especializado em Business Intelligence, Data Science, Power BI, Python, AWS e TOTVS Protheus.",
     type: "website",
     locale: "pt_BR",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Cloves Henrique - Especialista em Dados | Desenvolvedor | Analista de Sistemas",
-    description: "Portfólio de Cloves Henrique, Especialista em Dados, Desenvolvedor e Analista de Sistemas. Especializado em Business Intelligence, Data Science, Power BI, Python, AWS e TOTVS Protheus.",
+    title: "Henrique Erdei - Especialista em Dados | Desenvolvedor | Analista de Sistemas",
+    description: "Portfólio de Henrique Erdei, Especialista em Dados, Desenvolvedor e Analista de Sistemas. Especializado em Business Intelligence, Data Science, Power BI, Python, AWS e TOTVS Protheus.",
   },
   robots: {
     index: true,

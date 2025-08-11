@@ -16,7 +16,7 @@ const Hero = () => {
               <div className="w-40 h-40 mx-auto rounded-full overflow-hidden border-4 border-gray-200 shadow-lg">
                 <img 
                   src="/eu.png" 
-                  alt="Cloves Henrique - Avatar" 
+                  alt="Henrique Erdei - Avatar" 
                   className="w-full h-full object-cover"
                 />
               </div>
