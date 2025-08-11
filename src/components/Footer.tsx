@@ -13,7 +13,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div>
             <AnimatedElement animation="slideUp" delay={0.2}>
-              <h3 className="text-2xl font-bold mb-4 text-gray-900">Cloves Henrique</h3>
+              <h3 className="text-2xl font-bold mb-4 text-gray-900">Henrique Erdei</h3>
             </AnimatedElement>
             <AnimatedElement animation="slideUp" delay={0.4}>
               <p className="text-gray-600 mb-6 leading-relaxed">
