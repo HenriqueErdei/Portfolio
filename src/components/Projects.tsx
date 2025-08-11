@@ -11,13 +11,13 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "Dashboard de Vendas Interativo",
-      description: "Dashboard completo em Power BI para análise de vendas em tempo real, com KPIs estratégicos e drill-down capabilities.",
-      technologies: ["Power BI", "DAX", "SQL Server", "ETL"],
+      title: "Indicador de Processos Juridicos",
+      description: "Dashboard completo em Power BI para análise de processos jurídicos e valores gastos, com KPIs estratégicos e drill-down capabilities.",
+      technologies: ["Power BI", "DAX", "Linguagem M", "ETL"],
       image: "/api/placeholder/400/250",
       category: t('projects.categories.bi'),
-      link: "#",
-      github: "#"
+      link: "https://app.powerbi.com/view?r=eyJrIjoiZDU4NmE4MGQtNDg4MS00Yjc0LThmMjItNWM0MzhhNTFkNmI2IiwidCI6Ijc2N2JmYWQ3LTVjM2MtNDE0MS1hOWQ0LTVhY2RhNTQ5YzkxMCJ9&embedImagePlaceholder=true",
+      github: "https://github.com/HenriqueErdei/PowerBI-panel-process-juridic"
     },
     {
       id: 2,
