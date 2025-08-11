@@ -27,7 +27,7 @@ const Projects = () => {
       image: "/images/projeto-id2.png",
       category: t('projects.categories.bi'),
       link: "https://app.powerbi.com/view?r=eyJrIjoiNzIwN2YwMmEtNDdlMi00OWZhLWEwYjktNWU1MjYyZWM4NzZmIiwidCI6Ijc2N2JmYWQ3LTVjM2MtNDE0MS1hOWQ0LTVhY2RhNTQ5YzkxMCJ9",
-      github: "https://github.com/HenriqueErdei/PowerBI-panel-stock-electronics"
+      github: "https://github.com/HenriqueErdei/PowerBI-panel-stock-eletronics"
     },
     {
       id: 3,
