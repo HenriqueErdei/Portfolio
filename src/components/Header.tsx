@@ -56,7 +56,7 @@ const Header = () => {
 
             {/* GitHub */}
             <a
-              href="https://github.com/SEU_USUARIO_AQUI"
+              href="https://github.com/HenriqueErdei"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-900 hover:text-black transition-colors p-2 rounded-full hover:bg-gray-100"
