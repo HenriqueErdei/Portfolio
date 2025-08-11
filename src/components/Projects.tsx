@@ -51,13 +51,13 @@ const Projects = () => {
     },
     {
       id: 5,
-      title: "Sistema ERP Protheus",
-      description: "Implementação e customização do sistema ERP Protheus para gestão empresarial completa, incluindo módulos financeiro, fiscal e comercial.",
-      technologies: ["Protheus", "Advpl", "SQL Server", "TOTVS"],
+      title: "Automação de relatórios personalizados no Protheus",
+      description: "Sistema de automação de relatórios personalizados no Protheus, com integração com o MySQL e o Python.",
+      technologies: ["Protheus", "MySQL", "Python"],
       image: "/api/placeholder/400/250",
       category: t('projects.categories.protheus'),
-      link: "#",
-      github: "#"
+      link: "https://github.com/HenriqueErdei/Application-dataBase-relatorys-PROTHEUS",
+      github: "https://github.com/HenriqueErdei/Application-dataBase-relatorys-PROTHEUS"
     }
   ];
 
