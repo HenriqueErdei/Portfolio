@@ -47,7 +47,6 @@ const Skills = () => {
         { name: "Data Modeling", level: 85, color: "bg-indigo-500" },
         { name: "ETL Processes", level: 80, color: "bg-teal-500" },
         { name: "API Development", level: 85, color: "bg-pink-500" },
-        { name: "DevOps", level: 80, color: "bg-gray-600" },
         { name: "Jira", level: 95, color: "bg-indigo-500" }
       ]
     }
