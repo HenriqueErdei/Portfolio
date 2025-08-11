@@ -54,7 +54,7 @@ const Projects = () => {
       title: "Automação de relatórios personalizados no Protheus",
       description: "Sistema de automação de relatórios personalizados no Protheus, com integração com o MySQL e o Python.",
       technologies: ["Protheus", "MySQL", "Python"],
-      image: "/api/placeholder/400/250",
+      image: "/images/projeto-id5.png",
       category: t('projects.categories.protheus'),
       link: "https://github.com/HenriqueErdei/Application-dataBase-relatorys-PROTHEUS",
       github: "https://github.com/HenriqueErdei/Application-dataBase-relatorys-PROTHEUS"
@@ -131,11 +131,19 @@ const Projects = () => {
               <div className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 h-full flex flex-col">
                 {/* Project Image */}
                 <div className="relative h-48 bg-gradient-to-br from-gray-100 to-gray-200 flex-shrink-0">
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <svg className="w-16 h-16 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-                    </svg>
-                  </div>
+                  {project.image ? (
+                    <img
+                      src={project.image}
+                      alt={project.title}
+                      className="absolute inset-0 w-full h-full object-cover"
+                    />
+                  ) : (
+                    <div className="absolute inset-0 flex items-center justify-center">
+                      <svg className="w-16 h-16 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                      </svg>
+                    </div>
+                  )}
                   <div className="absolute top-4 left-4">
                     <span className="px-3 py-1 bg-blue-100 text-blue-800 text-xs font-medium rounded-full">
                       {project.category}
@@ -217,4 +225,4 @@ const Projects = () => {
   );
 };
 
-export default Projects; 
+export default Projects;
