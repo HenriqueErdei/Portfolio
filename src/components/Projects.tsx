@@ -21,13 +21,13 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: "Sistema de Automação de Relatórios",
-      description: "Automação completa de relatórios semanais usando Python e AWS Lambda, reduzindo tempo de geração em 80%.",
-      technologies: ["Python", "AWS Lambda", "Pandas", "S3"],
-      image: "/api/placeholder/400/250",
-      category: t('projects.categories.automation'),
-      link: "#",
-      github: "#"
+      title: "Dashboard Estoque de produtos eletrônicos",
+      description: "Dashboard completo em Power BI para análise de estoque de produtos eletrônicos, projeto ficticio.",
+      technologies: ["Power BI", "DAX", "Linguagem M", "ETL"],
+      image: "/images/projeto-id2.png",
+      category: t('projects.categories.bi'),
+      link: "https://app.powerbi.com/view?r=eyJrIjoiNzIwN2YwMmEtNDdlMi00OWZhLWEwYjktNWU1MjYyZWM4NzZmIiwidCI6Ijc2N2JmYWQ3LTVjM2MtNDE0MS1hOWQ0LTVhY2RhNTQ5YzkxMCJ9",
+      github: "https://github.com/HenriqueErdei/PowerBI-panel-stock-electronics"
     },
     {
       id: 3,
