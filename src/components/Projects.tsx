@@ -14,7 +14,7 @@ const Projects = () => {
       title: "Indicador de Processos Juridicos",
       description: "Dashboard completo em Power BI para análise de processos jurídicos e valores gastos, com KPIs estratégicos e drill-down capabilities.",
       technologies: ["Power BI", "DAX", "Linguagem M", "ETL"],
-      image: "/api/placeholder/400/250",
+      image: "/images/projeto-id1.jpeg",
       category: t('projects.categories.bi'),
       link: "https://app.powerbi.com/view?r=eyJrIjoiZDU4NmE4MGQtNDg4MS00Yjc0LThmMjItNWM0MzhhNTFkNmI2IiwidCI6Ijc2N2JmYWQ3LTVjM2MtNDE0MS1hOWQ0LTVhY2RhNTQ5YzkxMCJ9&embedImagePlaceholder=true",
       github: "https://github.com/HenriqueErdei/PowerBI-panel-process-juridic"
