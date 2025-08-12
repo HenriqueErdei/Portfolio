@@ -31,13 +31,13 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: "API REST para Gestão de Dados",
+      title: "Sistema de negocios para tomada de decisão",
       description: "API completa para gestão de dados empresariais com autenticação JWT e documentação Swagger.",
-      technologies: ["Node.js", "Express", "MongoDB", "JWT"],
-      image: "/api/placeholder/400/250",
+      technologies: ["Python", "SQLite", "Flask", "Gemini-IA"],
+      image: "/images/projeto-id3.png",
       category: t('projects.categories.development'),
       link: "#",
-      github: "#"
+      github: "https://github.com/HenriqueErdei/Data-flask-system"
     },
     {
       id: 4,
