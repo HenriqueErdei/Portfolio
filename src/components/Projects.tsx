@@ -32,11 +32,11 @@ const Projects = () => {
     {
       id: 3,
       title: "Sistema de negocios para tomada de decisão",
-      description: "API completa para gestão de dados empresariais com autenticação JWT e documentação Swagger.",
+      description: "controle de usuarios, permissoes para acessar modulos, gemini integrado para tomadas de decisão. acesso como usuario, usario: user senha: 123 ",
       technologies: ["Python", "SQLite", "Flask", "Gemini-IA"],
       image: "/images/projeto-id3.png",
       category: t('projects.categories.development'),
-      link: "#",
+      link: "https://data-flask-system.onrender.com",
       github: "https://github.com/HenriqueErdei/Data-flask-system"
     },
     {
