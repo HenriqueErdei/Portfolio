@@ -40,16 +40,6 @@ const Projects = () => {
       github: "https://github.com/HenriqueErdei/Data-flask-system"
     },
     {
-      id: 4,
-      title: "Aplicação Web de Analytics",
-      description: "Aplicação React para visualização de dados com gráficos interativos e filtros avançados.",
-      technologies: ["React", "TypeScript", "D3.js", "Node.js"],
-      image: "/api/placeholder/400/250",
-      category: t('projects.categories.development'),
-      link: "#",
-      github: "#"
-    },
-    {
       id: 5,
       title: "Automação de relatórios personalizados no Protheus",
       description: "Sistema de automação de relatórios personalizados no Protheus, com integração com o MySQL e o Python.",
