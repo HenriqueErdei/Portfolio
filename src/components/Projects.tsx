@@ -40,6 +40,16 @@ const Projects = () => {
       github: "https://github.com/HenriqueErdei/Data-flask-system"
     },
     {
+      id: 4,
+      title: "Indicador de Projetos em geral",
+      description: "Dashboard para analise geral de projetos, gastos,lucros,prazos,cargos e muito mais.",
+      technologies: ["Power BI", "DAX", "Linguagem M", "ETL"],
+      image: "/images/projeto-id4.png",
+      category: t('projects.categories.bi'),
+      link: "https://app.powerbi.com/view?r=eyJrIjoiMTExZGE2NzAtMzNmYS00MTM2LTkwZTAtZjk5MTg3YjQwMzU1IiwidCI6Ijc2N2JmYWQ3LTVjM2MtNDE0MS1hOWQ0LTVhY2RhNTQ5YzkxMCJ9",
+      github: "https://github.com/HenriqueErdei/PowerBI-panel-control-projects"
+    },
+    {
       id: 5,
       title: "Automação de relatórios personalizados no Protheus",
       description: "Sistema de automação de relatórios personalizados no Protheus, com integração com o MySQL e o Python.",
