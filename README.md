@@ -162,7 +162,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ## 📞 Contato
 
-- **Email**: henrique@email.com
+- **Email**: henriqueerdeijob@gmail.com
 - **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com)
 - **GitHub**: [github.com/HenriqueErdei](https://github.com/HenriqueErdei)
 

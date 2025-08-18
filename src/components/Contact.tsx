@@ -195,7 +195,7 @@ const Contact = () => {
                       </div>
                       <div className="text-center lg:text-left">
                         <p className="font-medium text-gray-900">{t('contact.info.email')}</p>
-                        <p className="text-gray-600">henrique@email.com</p>
+                        <p className="text-gray-600">henriqueerdeijob@gmail.com</p>
                       </div>
                     </div>
                   </AnimatedElement>
